@@ -13,3 +13,10 @@ A simple, clean counter application built with **HTML, CSS, and JavaScript**. Pe
 ---
 
 ## 📂 Project Structure
+
+Counter/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
