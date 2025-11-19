@@ -24,7 +24,7 @@ Counter/
  Tech Stack
  HTML5
 CSS3 (Flexbox for layout)
-Vanilla JavaScript (no frameworks)
+Vanilla JavaScript 
 
 
 
